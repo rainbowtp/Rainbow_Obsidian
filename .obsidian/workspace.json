@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "40 - Obsidian/脚本/QuickAdd/.Rhistory",
-                "bFile": "40 - Obsidian/脚本/QuickAdd/.Rhistory",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: .Rhistory"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -158,7 +158,7 @@
             }
           },
           {
-            "id": "79a267e713d33b56",
+            "id": "99c9cb2e67c77de7",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -245,7 +245,8 @@
               "title": "侧边栏天气预报"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -269,11 +270,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53c2b5d46760f3a1",
+  "active": "99c9cb2e67c77de7",
   "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "40 - Obsidian/侧边栏/侧边栏音乐播放器.md",
     "40 - Obsidian/主页/00. 主页.md",
     "学习笔记/网络安全/大模型安全/数信杯比赛准备.md",
-    "40 - Obsidian/侧边栏/侧边栏音乐播放器.md",
     "学习笔记/网络安全/大模型安全",
     "学习笔记/网络安全",
     "学习笔记",
@@ -307,7 +309,6 @@
     "每日日记",
     "Rainbow/测试.md",
     "40 - Obsidian/主页/00. 文件管理.md",
-    "Rainbell库用户实例.md",
     "未命名.canvas",
     "40 - Obsidian/附件/264541693454399_.pic_hd.jpg",
     "40 - Obsidian/附件/264681693454999_.pic_hd.jpg",

@@ -1,0 +1,18 @@
+# Obsidian 配置文件
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+.obsidian/cache/
+.obsidian/plugins/obsidian-git/data.json
+
+# 系统垃圾文件
+.trash/
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+
+# 临时文件和日志
+*.log
+*.tmp
+node_modules/
