@@ -1,0 +1,33 @@
+{
+  "enabledCssSnippets": [
+    "【进度颜色】多彩进度条",
+    "【情绪记录】AllTracker",
+    "【主页设置手机端】homepage setting media mobile",
+    "【全宽页面】fullwidth",
+    "【AD优化】admonitions",
+    "【主页设置移动端】homepage setting media mobile",
+    "【主页设置】homepage setting",
+    "【音乐播放器】Music Player",
+    "【收件箱图标】收件箱icon",
+    "【项目管理】sharetype",
+    "【日记时间轴】Time",
+    "【生日倒计时】birthday countdown",
+    "【进度颜色】colourful progress bar",
+    "【情绪记录】MoodTracker",
+    "【侧边栏设置】rightlane setting",
+    "【侧边栏播放器图标】rightlane music player icon",
+    "【便签样式】stickies",
+    "【边栏图标】sidepane",
+    "【分栏支持】admonition-col2-col3-flex",
+    "【卡片视图】zettelkasten",
+    "一级标题字体设置"
+  ],
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "baseFontSize": 21,
+  "accentColor": "#f5c6c9",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono,阿里巴巴普惠体 3.0"
+}

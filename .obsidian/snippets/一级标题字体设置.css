@@ -1,0 +1,7 @@
+/* === 自定义一级标题中英混排 === */
+
+/* H1: 中文用马善政（优雅毛笔），英文回退用 Amatic SC（灵动手写） */
+body h1 {
+    font-family: "钟齐马善政毛笔楷书", "Srisakdi";
+    font-weight: normal;
+}
