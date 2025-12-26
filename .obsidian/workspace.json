@@ -11,12 +11,15 @@
             "id": "53c2b5d46760f3a1",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "40 - Obsidian/附件/1658115786245751.mp4"
+                "file": "学习笔记/网络安全/大模型安全/数信杯比赛准备.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1658115786245751"
+              "title": "数信杯比赛准备"
             }
           }
         ]
@@ -86,13 +89,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 - Obsidian/附件/1658115786245751.mp4",
+                "file": "学习笔记/网络安全/大模型安全/数信杯比赛准备.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1658115786245751 的大纲"
+              "title": "数信杯比赛准备 的大纲"
             }
           },
           {
@@ -113,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 - Obsidian/附件/1658115786245751.mp4",
+                "file": "学习笔记/网络安全/大模型安全/数信杯比赛准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1658115786245751 的反向链接列表"
+              "title": "数信杯比赛准备 的反向链接列表"
             }
           },
           {
@@ -272,6 +275,9 @@
   },
   "active": "53c2b5d46760f3a1",
   "lastOpenFiles": [
+    "40 - Obsidian/主页/00. 导航.md",
+    "学习笔记/网络安全/大模型安全/数信杯比赛准备.md",
+    "40 - Obsidian/附件/1658115786245751.mp4",
     "40 - Obsidian/侧边栏/侧边栏当日日程.md",
     "40 - Obsidian/侧边栏/收件箱.md",
     "40 - Obsidian/侧边栏/侧边栏音乐播放器.md",
@@ -280,7 +286,6 @@
     "2023年08月11日.md",
     "2023年12月26日.md",
     "40 - Obsidian/主页/00. 主页.md",
-    "学习笔记/网络安全/大模型安全/数信杯比赛准备.md",
     "一些测试/尘缘/index.md",
     "一些测试/尘缘/人物分析.md",
     "一些测试/尘缘/剧情脉络分析.md",
@@ -300,15 +305,12 @@
     "学习笔记/网络安全",
     "学习笔记",
     "每日日记/DailyNote/2025年12月25日.md",
-    "40 - Obsidian/主页/00. 导航.md",
     "40 - Obsidian/脚本/Obsidian活动汇总.md",
     "40 - Obsidian/脚本/修复项目统计20220530.md",
     "40 - Obsidian/脚本/小鸟统计20220606.md",
-    "40 - Obsidian/脚本/每日总结汇总20220606.md",
     "00 - 每日日记/DailyNote",
     "00 - 每日日记",
     "40 - Obsidian/附件/banners/flowers.gif",
-    "40 - Obsidian/附件/1658115786245751.mp4",
     "未命名.canvas",
     "40 - Obsidian/附件/264541693454399_.pic_hd.jpg",
     "40 - Obsidian/附件/264681693454999_.pic_hd.jpg",
