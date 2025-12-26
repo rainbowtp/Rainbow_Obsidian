@@ -11,10 +11,11 @@
     "downscalePercent": 100
   },
   "attachmentFolderPath": "40 - Obsidian/附件",
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "showLineNumber": false,
   "userIgnoreFilters": [
     "40 - Obsidian/"
   ],
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "foldHeading": true
 }
