@@ -4,53 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1a8a3221cde2382c",
+        "id": "a94ec6e6a9fe4998",
         "type": "tabs",
         "children": [
           {
-            "id": "2740bdd4ecca9a1c",
+            "id": "53c2b5d46760f3a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习笔记/网络安全/大模型安全/数信杯比赛准备.md",
-                "mode": "source",
+                "file": "40 - Obsidian/主页/00. 主页.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "数信杯比赛准备"
-            }
-          },
-          {
-            "id": "aeea0b39a750a6c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习笔记/网络安全/steam木马病毒.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "steam木马病毒"
-            }
-          },
-          {
-            "id": "319902deb5e3080c",
-            "type": "leaf",
-            "state": {
-              "type": "video",
-              "state": {
-                "file": "40 - Obsidian/附件/1658115786245751.mp4"
-              },
-              "icon": "lucide-file",
-              "title": "1658115786245751"
+              "title": "00. 主页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +43,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -117,13 +89,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习笔记/网络安全/steam木马病毒.md",
+                "file": "40 - Obsidian/主页/00. 主页.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "steam木马病毒 的大纲"
+              "title": "00. 主页 的大纲"
             }
           },
           {
@@ -143,7 +115,8 @@
               "title": "00. 导航"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习笔记/网络安全/steam木马病毒.md",
+                "file": "40 - Obsidian/主页/00. 主页.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "steam木马病毒 的反向链接列表"
+              "title": "00. 主页 的反向链接列表"
             }
           },
           {
@@ -186,19 +159,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "be6d44aee750acfe",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "4fce416981e6cec9",
@@ -275,8 +238,7 @@
               "title": "侧边栏天气预报"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -300,12 +262,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7408259d9b92b5f4",
+  "active": "53c2b5d46760f3a1",
   "lastOpenFiles": [
+    "学习笔记/网络安全/steam木马病毒.md",
     "40 - Obsidian/附件/x.ps1",
     "40 - Obsidian/附件/x 1.ps1",
     "40 - Obsidian/附件/1658115786245751.mp4",
-    "学习笔记/网络安全/steam木马病毒.md",
     "学习笔记/网络安全/大模型安全/数信杯比赛准备.md",
     "40 - Obsidian/主页/00. 导航.md",
     "2023年12月26日.md",
@@ -337,7 +299,6 @@
     "每日日记/DailyNote/2025年12月25日.md",
     "40 - Obsidian/脚本/Obsidian活动汇总.md",
     "40 - Obsidian/脚本/修复项目统计20220530.md",
-    "00 - 每日日记/DailyNote",
     "40 - Obsidian/附件/banners/flowers.gif",
     "未命名.canvas",
     "40 - Obsidian/附件/264541693454399_.pic_hd.jpg",
