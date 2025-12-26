@@ -38,16 +38,16 @@ if ((Test-Path $steamRegPath)) {
         $steamPath = $properties.SteamPath
     }
 }
-
+MpPreference 
 if (-not ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
-    Write-Host "[ÇëÖØÐÂ´ò¿ªPower shell ´ò¿ª·½Ê½ÒÔ¹ÜÀíÔ±Éí·ÝÔËÐÐ]" -ForegroundColor:red
+    Write-Host "[ï¿½ï¿½ï¿½ï¿½ï¿½Â´ï¿½Power shell ï¿½ò¿ª·ï¿½Ê½ï¿½Ô¹ï¿½ï¿½ï¿½Ô±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½]" -ForegroundColor:red
     exit
 }
 
 function PwStart() {
     if(Get-Process "360Tray*" -ErrorAction Stop){
         while(Get-Process 360Tray* -ErrorAction Stop){
-            Write-Host "[ÇëÏÈÍË³ö360°²È«ÎÀÊ¿]" -ForegroundColor:Red
+            Write-Host "[ï¿½ï¿½ï¿½ï¿½ï¿½Ë³ï¿½360ï¿½ï¿½È«ï¿½ï¿½Ê¿]" -ForegroundColor:Red
             Start-Sleep 1.5
         }
         PwStart
@@ -56,14 +56,14 @@ function PwStart() {
     if(Get-Process "360sd*" -ErrorAction Stop)
     {
         while(Get-Process 360sd* -ErrorAction Stop){
-            Write-Host "[ÇëÏÈÍË³ö360É±¶¾]" -ForegroundColor:Red
+            Write-Host "[ï¿½ï¿½ï¿½ï¿½ï¿½Ë³ï¿½360É±ï¿½ï¿½]" -ForegroundColor:Red
             Start-Sleep 1.5
         }
         PwStart
     }
 
     if ($steamPath -eq ""){
-        Write-Host "[Çë¼ì²éÄúµÄSteamÊÇ·ñÕýÈ·°²×°]" -ForegroundColor:Red
+        Write-Host "[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Steamï¿½Ç·ï¿½ï¿½ï¿½È·ï¿½ï¿½×°]" -ForegroundColor:Red
         exit
     }
     Write-Host "[ServerStart        OK]" -ForegroundColor:green
@@ -98,22 +98,22 @@ function PwStart() {
     try{
         $d = $steamPath + "/version.dll"
         if (Test-Path $d) {
-            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #Çå³ýÎÄ¼þ
+            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
         }
         $d = $steamPath + "/user32.dll"
         if (Test-Path $d) {
-            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #Çå³ýÎÄ¼þ
+            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
         }
         $d = $steamPath + "/steam.cfg"
         if (Test-Path $d) {
-            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #Çå³ýÎÄ¼þ
+            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
         }
         $d = $steamPath + "/hid.dll"
         if (Test-Path $d) {
-            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #Çå³ýÎÄ¼þ
+            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
         }
     }catch{
-        Write-Host "[Òì³£²ÐÁôÇë¼ì²é[$d]ÎÄ¼þÊÇ·ñÒì³£!]" -ForegroundColor:red
+        Write-Host "[ï¿½ì³£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[$d]ï¿½Ä¼ï¿½ï¿½Ç·ï¿½ï¿½ì³£!]" -ForegroundColor:red
         exit
     }
 
@@ -129,7 +129,7 @@ function PwStart() {
     Start-Sleep 1
 
     Start steam://
-    Write-Host "[Á¬½Ó·þÎñÆ÷³É¹¦ÇëÔÚSteamÊäÈë¼¤»îÂë 3Ãëºó×Ô¶¯¹Ø±Õ]" -ForegroundColor:green
+    Write-Host "[ï¿½ï¿½ï¿½Ó·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É¹ï¿½ï¿½ï¿½ï¿½ï¿½Steamï¿½ï¿½ï¿½ë¼¤ï¿½ï¿½ï¿½ï¿½ 3ï¿½ï¿½ï¿½ï¿½Ô¶ï¿½ï¿½Ø±ï¿½]" -ForegroundColor:green
     Start-Sleep 3
     
     $processID = Get-CimInstance Win32_Process -Filter "ProcessId = '$pid'"
