@@ -17,5 +17,7 @@
   "minimal-style@@h1-font": "Operator Mono,钟齐马善政毛笔楷书",
   "minimal-style@@h1-style": "italic",
   "minimal-style@@h1-variant": "normal",
-  "minimal-style@@h1-l": true
+  "minimal-style@@h1-l": true,
+  "minimal-style@@h2-font": "Operator Mono,钟齐马善政毛笔楷书",
+  "minimal-style@@h2-style": "italic"
 }
