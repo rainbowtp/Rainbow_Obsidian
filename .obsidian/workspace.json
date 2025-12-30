@@ -115,7 +115,8 @@
               "title": "00. 导航"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
