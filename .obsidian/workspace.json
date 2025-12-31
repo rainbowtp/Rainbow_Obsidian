@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中国电信/项目支撑/陕三建.md",
+                "file": "学习笔记/网络安全/大模型安全/01 备赛难题.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "陕三建"
+              "title": "01 备赛难题"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中国电信/项目支撑/陕三建.md",
+                "file": "40 - Obsidian/模板/项目支撑模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "陕三建"
+              "title": "项目支撑模板"
             }
           },
           {
@@ -43,17 +43,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "陕三建.md",
+                "file": "中国电信/项目支撑/陕三建勒索病毒.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "陕三建"
+              "title": "陕三建勒索病毒"
+            }
+          },
+          {
+            "id": "ec8f62c8b2021c8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习笔记/网络安全/steam木马病毒.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "steam木马病毒"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "陕三建.md",
+                "file": "学习笔记/网络安全/steam木马病毒.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "陕三建 的大纲"
+              "title": "steam木马病毒 的大纲"
             }
           },
           {
@@ -168,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "陕三建.md",
+                "file": "学习笔记/网络安全/steam木马病毒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "陕三建 的反向链接列表"
+              "title": "steam木马病毒 的反向链接列表"
             }
           },
           {
@@ -303,10 +318,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94c1c64fec0df853",
+  "active": "ec8f62c8b2021c8e",
   "lastOpenFiles": [
-    "中国电信/项目支撑/陕三建.md",
-    "陕三建.md",
+    "中国电信/项目支撑/水务局等保.md",
+    "一些测试/Win10Config.md",
+    "中国电信/项目支撑/陕三建勒索病毒.md",
+    "中国电信/项目支撑/笔记.md",
+    "中国电信/年度工作总结.md",
     "40 - Obsidian/模板/项目支撑模板.md",
     "40 - Obsidian/模板/阅读笔记模板.md",
     "40 - Obsidian/模板/新建代码模板.md",
@@ -320,14 +338,12 @@
     "学习笔记/网络安全/大模型安全/02 投毒专项攻击.md",
     "40 - Obsidian/主页/00. 主页.md",
     "write up",
-    "一些测试/Win10Config.md",
     "学习笔记/网络安全/大模型安全/00 数信杯比赛准备.md",
     "40 - Obsidian/侧边栏/侧边栏天气预报.md",
     "40 - Obsidian/侧边栏/侧边栏音乐播放器.md",
     "40 - Obsidian/侧边栏/侧边栏当日日程.md",
     "每日日记/DailyNote/2025年12月26日.md",
     "每日日记/DailyNote/2025年12月25日.md",
-    "中国电信/年度工作总结.md",
     "中国电信",
     "40 - Obsidian/附件/x.ps1",
     "40 - Obsidian/附件/x 1.ps1",
@@ -336,7 +352,6 @@
     "2023年12月26日.md",
     "40 - Obsidian/侧边栏/收件箱.md",
     "2023年08月11日.md",
-    "一些测试/尘缘/index.md",
     "40 - Obsidian/字体/AlibabaPuHuiTi-3-55-Regular.ttf",
     "40 - Obsidian/字体/MaShanZheng-Regular.ttf",
     "40 - Obsidian/字体",

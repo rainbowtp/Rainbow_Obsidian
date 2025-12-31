@@ -18,5 +18,6 @@
     "40 - Obsidian/"
   ],
   "useMarkdownLinks": false,
-  "foldHeading": true
+  "foldHeading": true,
+  "newFileLocation": "current"
 }

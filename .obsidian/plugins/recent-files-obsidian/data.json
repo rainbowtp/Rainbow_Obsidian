@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "陕三建",
-      "path": "陕三建.md"
+      "basename": "steam木马病毒",
+      "path": "学习笔记/网络安全/steam木马病毒.md"
     },
     {
-      "basename": "陕三建",
-      "path": "中国电信/项目支撑/陕三建.md"
+      "basename": "水务局等保",
+      "path": "中国电信/项目支撑/水务局等保.md"
+    },
+    {
+      "basename": "陕三建勒索病毒",
+      "path": "中国电信/项目支撑/陕三建勒索病毒.md"
+    },
+    {
+      "basename": "年度工作总结",
+      "path": "中国电信/年度工作总结.md"
     },
     {
       "basename": "项目支撑模板",
@@ -41,20 +49,12 @@
       "path": "学习笔记/网络安全/大模型安全/01 备赛难题.md"
     },
     {
-      "basename": "steam木马病毒",
-      "path": "学习笔记/网络安全/steam木马病毒.md"
-    },
-    {
       "basename": "02 投毒专项攻击",
       "path": "学习笔记/网络安全/大模型安全/02 投毒专项攻击.md"
     },
     {
       "basename": "00. 主页",
       "path": "40 - Obsidian/主页/00. 主页.md"
-    },
-    {
-      "basename": "Win10Config",
-      "path": "一些测试/Win10Config.md"
     },
     {
       "basename": "00 数信杯比赛准备",
@@ -81,10 +81,6 @@
       "path": "每日日记/DailyNote/2025年12月25日.md"
     },
     {
-      "basename": "年度工作总结",
-      "path": "中国电信/年度工作总结.md"
-    },
-    {
       "basename": "1658115786245751",
       "path": "40 - Obsidian/附件/1658115786245751.mp4"
     },
@@ -95,22 +91,6 @@
     {
       "basename": "收件箱",
       "path": "40 - Obsidian/侧边栏/收件箱.md"
-    },
-    {
-      "basename": "index",
-      "path": "一些测试/尘缘/index.md"
-    },
-    {
-      "basename": "人物分析",
-      "path": "一些测试/尘缘/人物分析.md"
-    },
-    {
-      "basename": "剧情脉络分析",
-      "path": "一些测试/尘缘/剧情脉络分析.md"
-    },
-    {
-      "basename": "佳句点评",
-      "path": "一些测试/尘缘/佳句点评.md"
     },
     {
       "basename": "music and birthday countdown 1",
@@ -159,18 +139,6 @@
     {
       "basename": "任务面板",
       "path": "40 - Obsidian/脚本/tasksCalendar/任务面板.md"
-    },
-    {
-      "basename": "文章评价",
-      "path": "一些测试/文章评价.md"
-    },
-    {
-      "basename": "高中文章",
-      "path": "一些测试/高中文章.md"
-    },
-    {
-      "basename": "沉默的真相",
-      "path": "一些测试/沉默的真相.md"
     },
     {
       "basename": "00. 文件管理",
