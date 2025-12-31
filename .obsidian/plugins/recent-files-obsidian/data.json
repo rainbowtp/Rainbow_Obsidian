@@ -5,6 +5,14 @@
       "path": "项目支撑模板.md"
     },
     {
+      "basename": "陕三建",
+      "path": "中国电信/项目支撑/陕三建.md"
+    },
+    {
+      "basename": "01 备赛难题",
+      "path": "学习笔记/网络安全/大模型安全/01 备赛难题.md"
+    },
+    {
       "basename": "阅读笔记模板",
       "path": "40 - Obsidian/模板/阅读笔记模板.md"
     },
@@ -23,14 +31,6 @@
     {
       "basename": "季度OKR模板",
       "path": "40 - Obsidian/模板/季度OKR模板.md"
-    },
-    {
-      "basename": "陕三建",
-      "path": "中国电信/项目支撑/陕三建.md"
-    },
-    {
-      "basename": "01 备赛难题",
-      "path": "学习笔记/网络安全/大模型安全/01 备赛难题.md"
     },
     {
       "basename": "steam木马病毒",
