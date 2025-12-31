@@ -59,7 +59,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -290,14 +290,14 @@
   },
   "active": "5d0220bc143bd8a4",
   "lastOpenFiles": [
+    "中国电信/项目支撑/陕三建.md",
+    "40 - Obsidian/模板/项目支撑模板.md",
     "40 - Obsidian/模板/阅读笔记模板.md",
     "40 - Obsidian/模板/新建代码模板.md",
     "40 - Obsidian/模板/日记模板（美观版）.md",
     "40 - Obsidian/模板/每周周记模板.md",
     "40 - Obsidian/模板/每日日记模板.md",
     "40 - Obsidian/模板/季度OKR模板.md",
-    "40 - Obsidian/模板/项目支撑模板.md",
-    "中国电信/项目支撑/陕三建.md",
     "学习笔记/网络安全/大模型安全/01 备赛难题.md",
     "中国电信/项目支撑",
     "学习笔记/网络安全/steam木马病毒.md",
