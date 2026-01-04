@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中国电信/项目支撑/陕三建勒索病毒.md",
+                "file": "中国电信/项目支撑/水务局等保.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "陕三建勒索病毒"
+              "title": "水务局等保"
             }
           },
           {
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习笔记/网络安全/steam木马病毒.md",
+                "file": "中国电信/项目支撑/水务局等保.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "steam木马病毒 的大纲"
+              "title": "水务局等保 的大纲"
             }
           },
           {
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习笔记/网络安全/steam木马病毒.md",
+                "file": "中国电信/项目支撑/水务局等保.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "steam木马病毒 的反向链接列表"
+              "title": "水务局等保 的反向链接列表"
             }
           },
           {
@@ -318,11 +318,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec8f62c8b2021c8e",
+  "active": "94c1c64fec0df853",
   "lastOpenFiles": [
+    "中国电信/项目支撑/陕三建勒索病毒.md",
+    "学习笔记/网络安全/steam木马病毒.md",
     "中国电信/项目支撑/水务局等保.md",
     "一些测试/Win10Config.md",
-    "中国电信/项目支撑/陕三建勒索病毒.md",
     "中国电信/项目支撑/笔记.md",
     "中国电信/年度工作总结.md",
     "40 - Obsidian/模板/项目支撑模板.md",
@@ -334,7 +335,6 @@
     "40 - Obsidian/模板/季度OKR模板.md",
     "学习笔记/网络安全/大模型安全/01 备赛难题.md",
     "中国电信/项目支撑",
-    "学习笔记/网络安全/steam木马病毒.md",
     "学习笔记/网络安全/大模型安全/02 投毒专项攻击.md",
     "40 - Obsidian/主页/00. 主页.md",
     "write up",
