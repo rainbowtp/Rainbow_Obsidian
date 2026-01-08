@@ -2,6 +2,7 @@
 tags: QuarterlyNote
 target: tasks
 status: 进行中
+cssclasses:
 ---
 %% 在开始之前，请为此添加project/open标签。 %%
 
