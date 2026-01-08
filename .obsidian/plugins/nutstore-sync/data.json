@@ -1,0 +1,47 @@
+{
+  "account": "",
+  "credential": "",
+  "remoteDir": "",
+  "remoteCacheDir": "",
+  "useGitStyle": true,
+  "conflictStrategy": "diff-match-patch",
+  "oauthResponseText": "gNvMvAZvh9ehp1tiv_c2AV_v14nuLvZ2a0Y0pTFFa8BBCPyBC_hqUOa7fki9R0q67ZJ1S8tcBwk0WZVOKreEmbSywzLFyjgErOZBWkD3L2r0HsDmY0ONtTrSwRs-G08cDqmC7PM1HUbYexvjUlNBDHoD7ohj83XEzXP5y8iBbLujgwgw_g",
+  "loginMode": "sso",
+  "confirmBeforeSync": true,
+  "syncMode": "loose",
+  "filterRules": {
+    "exclusionRules": [
+      {
+        "expr": "**/.git",
+        "options": {
+          "caseSensitive": false
+        }
+      },
+      {
+        "expr": "**/.DS_Store",
+        "options": {
+          "caseSensitive": false
+        }
+      },
+      {
+        "expr": "**/.trash",
+        "options": {
+          "caseSensitive": false
+        }
+      },
+      {
+        "expr": ".obsidian",
+        "options": {
+          "caseSensitive": false
+        }
+      }
+    ],
+    "inclusionRules": []
+  },
+  "skipLargeFiles": {
+    "maxSize": "30 MB"
+  },
+  "realtimeSync": false,
+  "startupSyncDelaySeconds": 0,
+  "autoSyncIntervalSeconds": 300
+}
