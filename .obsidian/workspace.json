@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 - Obsidian/模板/通用模板.md",
+                "file": "中国电信/专项工作/标准ICT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "通用模板"
+              "title": "标准ICT"
             }
           }
         ]
@@ -89,13 +89,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 - Obsidian/模板/通用模板.md",
+                "file": "中国电信/专项工作/标准ICT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "通用模板 的大纲"
+              "title": "标准ICT 的大纲"
             }
           },
           {
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 - Obsidian/模板/通用模板.md",
+                "file": "中国电信/专项工作/标准ICT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "通用模板 的反向链接列表"
+              "title": "标准ICT 的反向链接列表"
             }
           },
           {
@@ -264,17 +264,17 @@
       "nutstore-sync:停止同步": false
     }
   },
-  "active": "78205561957387a2",
+  "active": "324c0b9d83c44a19",
   "lastOpenFiles": [
-    "40 - Obsidian/模板/季度OKR模板.md",
     "40 - Obsidian/模板/通用模板.md",
+    "40 - Obsidian/模板/季度OKR模板.md",
     "40 - Obsidian/模板/项目支撑模板.md",
     "40 - Obsidian/模板/新建代码模板.md",
     "40 - Obsidian/模板/阅读笔记模板.md",
     "40 - Obsidian/模板/每周周记模板.md",
     "40 - Obsidian/模板/每日日记模板.md",
     "40 - Obsidian/模板/日记模板（美观版）.md",
-    "中国电信/专项工作/未命名.md",
+    "中国电信/专项工作/标准ICT.md",
     "中国电信/项目支撑/水务局等保.md",
     "每日日记/DailyNote/2025年12月25日.md",
     "中国电信/专项工作/标准ICT.md",
