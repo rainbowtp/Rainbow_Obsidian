@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "2026年01月14日",
-      "path": "每日日记/DailyNote/2026年01月14日.md"
-    },
-    {
       "basename": "00. 导航",
       "path": "40 - Obsidian/主页/00. 导航.md"
+    },
+    {
+      "basename": "新建代码模板",
+      "path": "40 - Obsidian/模板/新建代码模板.md"
+    },
+    {
+      "basename": "项目支撑模板",
+      "path": "40 - Obsidian/模板/项目支撑模板.md"
+    },
+    {
+      "basename": "通用模板",
+      "path": "40 - Obsidian/模板/通用模板.md"
+    },
+    {
+      "basename": "Obsidian活动汇总",
+      "path": "40 - Obsidian/脚本/Obsidian活动汇总.md"
+    },
+    {
+      "basename": "修复项目统计20220530",
+      "path": "40 - Obsidian/脚本/修复项目统计20220530.md"
+    },
+    {
+      "basename": "小鸟统计20220606",
+      "path": "40 - Obsidian/脚本/小鸟统计20220606.md"
+    },
+    {
+      "basename": "每日总结汇总20220606",
+      "path": "40 - Obsidian/脚本/每日总结汇总20220606.md"
+    },
+    {
+      "basename": "任务面板",
+      "path": "40 - Obsidian/脚本/tasksCalendar/任务面板.md"
+    },
+    {
+      "basename": "收件箱",
+      "path": "40 - Obsidian/侧边栏/收件箱.md"
+    },
+    {
+      "basename": "侧边栏当日日程",
+      "path": "40 - Obsidian/侧边栏/侧边栏当日日程.md"
+    },
+    {
+      "basename": "1658115786245751",
+      "path": "40 - Obsidian/附件/1658115786245751.mp4"
+    },
+    {
+      "basename": "2026年01月14日",
+      "path": "每日日记/DailyNote/2026年01月14日.md"
     },
     {
       "basename": "年度工作总结",
@@ -37,14 +81,6 @@
       "path": "40 - Obsidian/侧边栏/侧边栏天气预报.md"
     },
     {
-      "basename": "收件箱",
-      "path": "40 - Obsidian/侧边栏/收件箱.md"
-    },
-    {
-      "basename": "侧边栏当日日程",
-      "path": "40 - Obsidian/侧边栏/侧边栏当日日程.md"
-    },
-    {
       "basename": "00. 主页",
       "path": "40 - Obsidian/主页/00. 主页.md"
     },
@@ -61,24 +97,12 @@
       "path": "中国电信/项目支撑/某政府单位三级等保.md"
     },
     {
-      "basename": "通用模板",
-      "path": "40 - Obsidian/模板/通用模板.md"
-    },
-    {
       "basename": "日记模板（美观版）",
       "path": "40 - Obsidian/模板/日记模板（美观版）.md"
     },
     {
       "basename": "季度OKR模板",
       "path": "40 - Obsidian/模板/季度OKR模板.md"
-    },
-    {
-      "basename": "项目支撑模板",
-      "path": "40 - Obsidian/模板/项目支撑模板.md"
-    },
-    {
-      "basename": "新建代码模板",
-      "path": "40 - Obsidian/模板/新建代码模板.md"
     },
     {
       "basename": "每周周记模板",
@@ -91,10 +115,6 @@
     {
       "basename": "侧边栏音乐播放器",
       "path": "40 - Obsidian/侧边栏/侧边栏音乐播放器.md"
-    },
-    {
-      "basename": "1658115786245751",
-      "path": "40 - Obsidian/附件/1658115786245751.mp4"
     },
     {
       "basename": "music and birthday countdown 1",
@@ -123,26 +143,6 @@
     {
       "basename": "使用实例1：本地音乐播放器 + 生日倒计时",
       "path": "40 - Obsidian/react组件/使用实例/使用实例1：本地音乐播放器 + 生日倒计时.md"
-    },
-    {
-      "basename": "Obsidian活动汇总",
-      "path": "40 - Obsidian/脚本/Obsidian活动汇总.md"
-    },
-    {
-      "basename": "修复项目统计20220530",
-      "path": "40 - Obsidian/脚本/修复项目统计20220530.md"
-    },
-    {
-      "basename": "小鸟统计20220606",
-      "path": "40 - Obsidian/脚本/小鸟统计20220606.md"
-    },
-    {
-      "basename": "每日总结汇总20220606",
-      "path": "40 - Obsidian/脚本/每日总结汇总20220606.md"
-    },
-    {
-      "basename": "任务面板",
-      "path": "40 - Obsidian/脚本/tasksCalendar/任务面板.md"
     },
     {
       "basename": "00. 文件管理",
