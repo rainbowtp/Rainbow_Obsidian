@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "中国电信/专项工作/插旗平台.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -160,7 +160,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4fce416981e6cec9",
@@ -263,12 +264,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ad73b7dcf2a71b6",
+  "active": "53c2b5d46760f3a1",
   "lastOpenFiles": [
+    "中国电信/年度工作总结.md",
+    "40 - Obsidian/主页/00. 主页.md",
+    "中国电信/专项工作/插旗平台.md",
     "40 - Obsidian/附件/插旗行动平台及大模型AI能力清单-发文版-金融交通（绿底红字）.xlsx",
     "中国电信/专项工作/标准ICT.md",
-    "中国电信/专项工作/插旗平台.md",
-    "40 - Obsidian/主页/00. 主页.md",
     "每日日记/DailyNote/2026年01月14日.md",
     "40 - Obsidian/主页/00. 导航.md",
     "40 - Obsidian/模板/新建代码模板.md",
@@ -282,7 +284,6 @@
     "40 - Obsidian/侧边栏/收件箱.md",
     "40 - Obsidian/侧边栏/侧边栏当日日程.md",
     "40 - Obsidian/附件/1658115786245751.mp4",
-    "中国电信/年度工作总结.md",
     "学习笔记/网络安全/大模型安全/02 投毒专项攻击.md",
     "学习笔记/网络安全/大模型安全/01 备赛难题.md",
     "学习笔记/网络安全/大模型安全/00 数信杯比赛准备.md",
@@ -300,7 +301,6 @@
     "40 - Obsidian/附件/x 1.ps1",
     "40 - Obsidian/字体/AlibabaPuHuiTi-3-55-Regular.ttf",
     "40 - Obsidian/字体/MaShanZheng-Regular.ttf",
-    "40 - Obsidian/字体",
     "40 - Obsidian/附件/banners/flowers.gif",
     "未命名.canvas",
     "40 - Obsidian/附件/264541693454399_.pic_hd.jpg",
