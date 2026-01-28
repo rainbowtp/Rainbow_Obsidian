@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中国电信/项目支撑/陕三建勒索病毒.md",
+                "file": "中国电信/项目支撑/阎良区教育局.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "陕三建勒索病毒"
+              "title": "阎良区教育局"
             }
           }
         ]
@@ -89,13 +89,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中国电信/项目支撑/陕三建勒索病毒.md",
+                "file": "中国电信/项目支撑/阎良区教育局.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "陕三建勒索病毒 的大纲"
+              "title": "阎良区教育局 的大纲"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中国电信/项目支撑/陕三建勒索病毒.md",
+                "file": "中国电信/项目支撑/阎良区教育局.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "陕三建勒索病毒 的反向链接列表"
+              "title": "阎良区教育局 的反向链接列表"
             }
           },
           {
@@ -266,6 +266,9 @@
   },
   "active": "53c2b5d46760f3a1",
   "lastOpenFiles": [
+    "中国电信/项目支撑/某政府单位三级等保.md",
+    "中国电信/项目支撑/阎良区教育局.md",
+    "中国电信/项目支撑/陕三建勒索病毒.md",
     "中国电信/项目支撑/水务局等保.md",
     "40 - Obsidian/主页/00. 主页.md",
     "中国电信/专项工作/插旗平台.md",
@@ -292,9 +295,6 @@
     "学习笔记/网络安全/大模型安全/02 投毒专项攻击.md",
     "每日日记/DailyNote/2026年01月08日.md",
     "每日日记/DailyNote/2025年12月26日.md",
-    "每日日记/DailyNote/2025年12月25日.md",
-    "40 - Obsidian/模板/每日日记模板.md",
-    "40 - Obsidian/侧边栏/侧边栏天气预报.md",
     "中国电信/专项工作",
     "中国电信/项目支撑",
     "write up",
